@@ -5,6 +5,7 @@ Nesse desafio, tive que criar uma aplicação para treinar a construção de uma
 
 Essa será uma aplicação para armazenar repositórios em um portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
+##
 
 ### Rotas da aplicação
 
@@ -18,6 +19,7 @@ Essa será uma aplicação para armazenar repositórios em um portfólio, que ir
 
 - **`POST /repositories/:id/like`**: A rota deve aumentar o número de likes do repositório específico escolhido através do `id` presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
+##
 
 ### Específicação dos testes
 
